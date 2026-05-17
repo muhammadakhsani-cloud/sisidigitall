@@ -37,7 +37,7 @@ Tim 2 Shift A
 2. 14 Mei 2026
 - [@human0797](https://github.com/Human0797) | Membuat catatan praktikum materi NAND, NOR, XOR, XNOR, dokumentasi README.
 - [@nabilfaizarinda](https://github.com/nabilfaizarinda) | Membuat catatan praktikum materi tinkercad, gerbang logika, gerbang AND, OR dan INVERTER.
-- [@muhammadakhsani-cloud](https://github.com/muhammadakhsani-cloud) | Mencari referensi.
+- [@muhammadakhsani-cloud](https://github.com/muhammadakhsani-cloud) |Membuat Abstrak, Mencari referensi.
 
 3. 15 Mei 2026
 - [@human0797](https://github.com/Human0797) | Menyelesaikan tugas praktikum (word dan juga logic-gate.md), dokumentasi README.
