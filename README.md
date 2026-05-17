@@ -9,14 +9,14 @@ Mata Kuliah : TK242005 Praktikum Sistem Digital
 
 Laboratorium Multimedia - Jurusan Informatika UNSOED
 
-Shift : D
+Shift : A
 
 
 
 
 
 ## Author
-Tim 2 Shift D
+Tim 2 Shift A
 
 - [@human0797](https://github.com/Human0797) | Rizki Rio Chandrawintana (H1H025031)
 - [@nabilfaizarinda](https://github.com/nabilfaizarinda) | Nabil Faiz Arinda (H1H025004)
