@@ -25,7 +25,7 @@ Tim 2 Shift D
 
 ## Attachments
 - Link tinkercad klik [disini.](https://www.tinkercad.com/things/9QlM81qomQB-gerbang-logika-ic?sharecode=CVY2bzqg5vE3qek5wNBQwEZxSso6vzww3tzUkDW_ukw)
-- Untuk tugas, laporan serta catatan bisa klik [disini.](#) (untuk file .md yang berisi penjelasan gerbang logika juga ada disana ya)
+- Untuk tugas, laporan serta catatan bisa klik [disini.](https://github.com/muhammadakhsani-cloud/sisidigitall/tree/main/public) (untuk file .md yang berisi penjelasan gerbang logika juga ada disana ya)
 ## Documentation
 
 1. 11 Mei 2026
@@ -40,7 +40,7 @@ Tim 2 Shift D
 - [@muhammadakhsani-cloud](https://github.com/muhammadakhsani-cloud) | Mencari referensi.
 
 3. 15 Mei 2026
-- [@human0797](https://github.com/Human0797) | Menyelesaikan tugas praktikum, dokumentasi README.
+- [@human0797](https://github.com/Human0797) | Menyelesaikan tugas praktikum (word dan juga logic-gate.md), dokumentasi README.
 - [@nabilfaizarinda](https://github.com/nabilfaizarinda) | Membuat rangkuman untuk bab II dasar teori.
 - [@muhammadakhsani-cloud](https://github.com/muhammadakhsani-cloud) | Menyusun bab I pendahuluan.
 
