@@ -1,5 +1,5 @@
 
-# Modul VIII Gerbang Logika Tinkercad
+# Modul VII Gerbang Logika Tinkercad
 
 Asisten : Muhammad Zaki Dzulfikar
 
