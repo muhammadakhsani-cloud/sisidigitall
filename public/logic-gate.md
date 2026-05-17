@@ -17,11 +17,11 @@ Gerbang AND menghasilkan output bernilai 1 hanya jika kedua input bernilai 1. Ji
 - DIP Switch
 
 #### Skema Rangkaian & Simulasi
-*[Tempat Gambar: Simulasi Rangkaian Gerbang AND]*
+<img width="723" height="512" alt="Screenshot From 2026-05-15 09-03-38" src="https://github.com/user-attachments/assets/d41c9f02-0c5f-4e8a-a99a-a4688ec5847f" />
+
 
 #### Penjelasan Diagram Pin IC
-Rangkaian ini menggunakan IC 74HC08 (catatan teks dokumen menyebutkan tipe 74HC08 di komponen namun ada referensi ketik manual 74HC04, layout yang benar untuk AND adalah keluarga 7408) yang berisi 4 gerbang AND mandiri. Chip ini dilengkapi dengan paket 14 pin.
-*[Tempat Gambar: Diagram Pin IC 7408]*
+Rangkaian ini menggunakan IC 74HC08 yang berisi 4 gerbang AND mandiri. Chip ini dilengkapi dengan paket 14 pin.
 
 ---
 
@@ -36,11 +36,11 @@ Gerbang OR menghasilkan output bernilai 1 jika salah satu atau kedua input berni
 - DIP Switch
 
 #### Skema Rangkaian & Simulasi
-*[Tempat Gambar: Simulasi Rangkaian Gerbang OR]*
+<img width="755" height="556" alt="Screenshot From 2026-05-15 09-24-40" src="https://github.com/user-attachments/assets/30037175-a2e9-485b-a290-05a400c169a7" />
+
 
 #### Penjelasan Diagram Pin IC
 Rangkaian ini menggunakan chip IC 74HC32 yang memiliki 4 gerbang OR di dalamnya. Chip IC ini tersedia dalam paket 14 pin dengan tata letak standar.
-*[Tempat Gambar: Diagram Pin IC 7432]*
 
 ---
 
@@ -55,11 +55,11 @@ Gerbang NOT berfungsi membalikkan nilai input (operasi inversi). Jika input bern
 - DIP Switch
 
 #### Skema Rangkaian & Simulasi
-*[Tempat Gambar: Simulasi Rangkaian Gerbang NOT]*
+<img width="700" height="494" alt="Screenshot From 2026-05-15 09-29-18" src="https://github.com/user-attachments/assets/66fa91f4-ef76-495e-9c7e-7c1772229bc1" />
+
 
 #### Penjelasan Diagram Pin IC
 IC 74HC04 merupakan chip yang memuat 6 gerbang NOT (inverter) mandiri di dalamnya. Komponen ini adalah salah satu blok bangunan paling dasar dalam elektronik digital dan dikemas dalam bentuk IC 14 pin.
-*[Tempat Gambar: Diagram Pin IC 7404]*
 
 ---
 
@@ -74,11 +74,11 @@ Gerbang NAND (Not AND) merupakan kebalikan langsung dari gerbang AND. Outputnya 
 - DIP Switch
 
 #### Skema Rangkaian & Simulasi
-*[Tempat Gambar: Simulasi Rangkaian Gerbang NAND]*
+<img width="603" height="494" alt="Screenshot From 2026-05-15 13-26-30" src="https://github.com/user-attachments/assets/06ada1e5-306a-483e-a221-73fc06fe2c63" />
+
 
 #### Penjelasan Diagram Pin IC
 NAND merupakan *inverse* dari gerbang AND, sehingga output pada NAND menghasilkan keadaan yang berlawanan dari AND dengan input yang sama. IC 74HC00 memiliki 14 pin yang komposisinya terdiri dari 4 gerbang NAND.
-*[Tempat Gambar: Diagram Pin IC 7400]*
 
 ---
 
@@ -93,11 +93,11 @@ Gerbang NOR (Not OR) merupakan kebalikan dari gerbang OR. Outputnya akan bernila
 - DIP Switch
 
 #### Skema Rangkaian & Simulasi
-*[Tempat Gambar: Simulasi Rangkaian Gerbang NOR]*
+<img width="603" height="494" alt="Screenshot From 2026-05-15 14-13-32" src="https://github.com/user-attachments/assets/3569ec5d-b84b-484c-83de-ad81e6870174" />
+
 
 #### Penjelasan Diagram Pin IC
 Gerbang NOR akan menghasilkan keadaan yang berlawanan dengan gerbang OR meski diberikan input yang sama. Salah satu IC yang mengimplementasikan konfigurasi ini adalah seri 74HC02 yang membawa 4 gerbang NOR di dalamnya. Note: Perlu diperhatikan bahwa susunan input-output pin pada IC NOR umumnya terbalik dibanding gerbang dasar lainnya.
-*[Tempat Gambar: Diagram Pin IC 7402]*
 
 ---
 
@@ -112,11 +112,11 @@ Gerbang XOR akan menghasilkan output bernilai 1 jika kedua input memiliki kondis
 - DIP Switch
 
 #### Skema Rangkaian & Simulasi
-*[Tempat Gambar: Simulasi Rangkaian Gerbang XOR]*
+<img width="603" height="494" alt="Screenshot From 2026-05-15 17-02-19" src="https://github.com/user-attachments/assets/4fb12e53-cce0-42bb-8c0a-b125a325a8d3" />
+
 
 #### Penjelasan Diagram Pin IC
 Gerbang XOR bisa diaktifkan apabila salah satu input bernilai 1, namun gerbang XOR akan non-aktif / LOW saat semua input bernilai 1, sehingga gerbang XOR menghilangkan fungsi AND pada gerbang OR. Rangkaian di atas menggunakan IC 74HC86 dengan konfigurasi 4 gerbang XOR mandiri dalam paket 14 pin.
-*[Tempat Gambar: Diagram Pin IC 7486]*
 
 ---
 
@@ -132,8 +132,8 @@ Gerbang XNOR menghasilkan output bernilai 1 jika kedua input bernilai sama (kedu
 - DIP Switch
 
 #### Skema Rangkaian & Simulasi
-*[Tempat Gambar: Simulasi Rangkaian Gerbang XNOR]*
+<img width="692" height="494" alt="Screenshot From 2026-05-15 17-14-01" src="https://github.com/user-attachments/assets/1e9273e2-c353-4cd5-94cd-ee0d412b6cd0" />
+
 
 #### Penjelasan Modifikasi Rangkaian
 Gerbang XNOR akan memberikan output yang berlawanan dengan gerbang XOR meskipun diberikan kondisi input yang sama. Karena keterbatasan komponen atau tidak adanya chip IC XNOR murni yang tersedia secara default di library Tinkercad, maka fungsi rangkaian XNOR dimanipulasi secara cerdas dengan menggabungkan IC XOR (74HC86) yang kemudian keadaannya di inverse (dibalik) menggunakan gerbang NOT yang terdapat pada IC 74HC04. Kombinasi tersebut berhasil membentuk fungsi gerbang logis XNOR seutuhnya.
-*[Tempat Gambar: Skema Diagram Kombinasi IC 74HC86 & 74HC04]*
