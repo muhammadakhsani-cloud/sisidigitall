@@ -25,7 +25,7 @@ Tim 2 Shift D
 
 ## Attachments
 - Link tinkercad klik [disini.](https://www.tinkercad.com/things/9QlM81qomQB-gerbang-logika-ic?sharecode=CVY2bzqg5vE3qek5wNBQwEZxSso6vzww3tzUkDW_ukw)
-- Untuk tugas, laporan serta catatan bisa klik [disini.](#)
+- Untuk tugas, laporan serta catatan bisa klik [disini.](#) (untuk README.md yang berisi penjelasan gerbang logika juga ada disana ya)
 ## Documentation
 
 1. 11 Mei 2026
@@ -49,7 +49,7 @@ Tim 2 Shift D
 - [@muhammadakhsani-cloud](https://github.com/muhammadakhsani-cloud) | Menyusun bab II dasar teori.
 
 5. 17 Mei 2026
-- [@human0797](https://github.com/Human0797) | Menyusun bab III metodologi, dokumentasi README.
+- [@human0797](https://github.com/Human0797) | Menyusun bab III metodologi, push semua dokumen ke repo github, dokumentasi README.
 - [@nabilfaizarinda](https://github.com/nabilfaizarinda) | Menyusun bab IV hasil dan pembahasan.
 - [@muhammadakhsani-cloud](https://github.com/muhammadakhsani-cloud) | Menyelesaikan dasar teori dan juga menyusun bab V kesimpulan.
 
